@@ -1,6 +1,6 @@
-<!-- markdownlint-disable-next-line first-line-heading -->
-<!--- Hugo front matter used to generate the website version of this page:
-title: OTLP Specification
+---
+# Hugo front matter used to generate the website version of this page:
+title: OpenTelemetry Protocol Specification
 linkTitle: OTLP
 aliases:
   - /docs/reference/specification/protocol/otlp
@@ -12,9 +12,7 @@ cascade:
   github_repo: &repo https://github.com/open-telemetry/opentelemetry-proto
   path_base_for_github_subdir: tmp/otlp
   github_project_repo: *repo
---->
-
-# OpenTelemetry Protocol Specification
+---
 
 **Status**:
 
